@@ -1,4 +1,3 @@
-import { Covid } from './components/Covid';
 import Home from './pages/home';
 
 function App() {
